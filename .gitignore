@@ -1,0 +1,6 @@
+﻿dataset/
+received_photos/
+__pycache__/
+*.pyc
+.venv/
+venv/
